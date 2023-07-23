@@ -19,7 +19,7 @@ I was privileged to work with an amazing team of five (5) aspiring Data Analysts
 ## Contributors: 
 | Edinam Doe Abla | https://github.com/doeabla |
 
-| Enoch Taylor-Nketiah | |
+| Enoch Taylor-Nketiah |https://github.com/akbamfo |
 
 | Timothy Morenikeji Akinremi |
 
