@@ -14,14 +14,19 @@ I was privileged to work with an amazing team of five (5) aspiring Data Analysts
 * import pyodbc
 * from dotenv import dotenv_values
 * import re 
-* import warnings 
+* import warnings
+
+### Essential links
+Article: https://www.linkedin.com/pulse/unraveling-indian-startup-ecosystem-data-analysis-kofi-bamfo
+
+PowerBI Dashboard: https://app.powerbi.com/groups/me/reports/b48244af-d664-49f4-8626-be0c8add24b5/ReportSection?redirectedFromSignup=1&experience=power-bi
 
 ## Contributors: 
 | Edinam Doe Abla | https://github.com/doeabla |
 
 | Enoch Taylor-Nketiah |https://github.com/akbamfo |
 
-| Timothy Morenikeji Akinremi |
+| Timothy Morenikeji Akinremi | https://github.com/timothyakinremi
 
 | Philip Oludipe Tolulope |
 
